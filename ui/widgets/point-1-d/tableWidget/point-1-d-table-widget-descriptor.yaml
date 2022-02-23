@@ -1,0 +1,6 @@
+code: point-1-d-table-widget
+titles:
+  en: Point 1 D Table Widget
+  it: Point 1 D Table Widget
+group: free
+customUiPath: point-1-d-table-widget.ftl

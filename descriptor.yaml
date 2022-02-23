@@ -1,0 +1,13 @@
+code: myapp1mysql-bundle
+description: This is the myapp1mysql bundle
+
+components:
+  plugins:
+    - plugins/myapp1mysql-plugin.yaml
+
+  widgets:
+    - ui/widgets/point-1-d/tableWidget/point-1-d-table-widget-descriptor.yaml
+    - ui/widgets/point-1-d/detailsWidget/point-1-d-details-widget-descriptor.yaml
+    - ui/widgets/point-1-d/formWidget/point-1-d-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

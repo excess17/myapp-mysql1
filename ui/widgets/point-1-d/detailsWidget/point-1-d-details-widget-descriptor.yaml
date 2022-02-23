@@ -1,0 +1,6 @@
+code: point-1-d-details-widget
+titles:
+  en: Point 1 D Details Widget
+  it: Point 1 D Details Widget
+group: free
+customUiPath: point-1-d-details-widget.ftl
